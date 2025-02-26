@@ -1,22 +1,15 @@
-- 👋 Hi, I’m @Neha-Singh-j
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
 <h1 align="center">Hi 👋, I'm Neha Singh </h1>
 <!-- <p>🌱 I’m currently <strong>Computer Science Student </strong> and  learning <strong>WEB Development Full-Stack</strong> -->
  <br> 
 
- - 👀 I’m a Passionate Software Developer & Competitive Programmer  
+### 👀 I’m a Passionate Software Developer & Competitive Programmer  
 
 ### 🚀 About Me
 
 💻 B-Tech CSE @ GLA University  
+
 🚀 Exploring Machine Learning, Web Development
+
 🔥 Actively solving DSA problems on LeetCode & CodeForces  
 
 
@@ -29,7 +22,7 @@
   <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40">
+<!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"> -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40">
 <!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"> -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40">
@@ -56,7 +49,7 @@
 ### 📫 How to reach me
 - 💌 [Email](mailto:neha.singh.888.j@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/neha-singh-4952992a7)
-- 📝 [Portfolio Website](#)
+- 📝 [Portfolio Website](https://github.com/Neha-Singh-j/Neha-Singh-j)
 
 ---
 ⭐ **Star** some repositories if you find them useful! Happy Coding! 🚀
