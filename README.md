@@ -1,6 +1,31 @@
 <div align="center">
-  <img height="150" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  />
+<!--   <img height="500" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  /> -->
 </div>
+<div align="center">
+ <img height="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
+<!--   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500"> -->
+
+<!-- <img height="500" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" >-->
+
+
+###
+
+<div>
+ <h1>Hi 👋, I'm Neha Singh</h1>
+  <h3>Full-Stack Developer | B.Tech @ GLA University | A passionate developer and Techie!!!</h3>
+
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Neha-Singh-j&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> <!-- image -->
+</p> <br> 
+
+
+# 💫 About Me:
+ 💻 B-Tech CSE @ GLA University<br><br>🚀 Exploring Machine Learning, Web Development<br><br>🔥 Actively solving DSA problems on LeetCode & CodeForces
+# Contact me:
+</div>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/neha-singh-4952992a7" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -8,19 +33,14 @@
   <a href="mailto:neha.singh.888.j@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
- 
-</div>
+  
+  <a href="https://x.com/NehaSingh2310" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+</a>
 
-###
-
-
-<h1 align="center">Hi 👋, I'm Neha Singh </h1>
-<!-- <p>🌱 I’m currently <strong>Computer Science Student </strong> and  learning <strong>WEB Development Full-Stack</strong> -->
- <br> 
-
-### 👀 I’m a Passionate Software Developer & Competitive Programmer  
-# 💫 About Me:
- 💻 B-Tech CSE @ GLA University<br><br>🚀 Exploring Machine Learning, Web Development<br><br>🔥 Actively solving DSA problems on LeetCode & CodeForces
+<a href="https://portfolio-neha-singh.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=internet-explorer&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
+</a>
 
 
 # 🛠 Language and Tools:
@@ -37,16 +57,14 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Neha-Singh-j&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Neha-Singh-j&theme=react-dark&hide_border=true" alt="Contribution Graph" /> <!-- graph -->
 ---
 [![](https://visitcount.itsvg.in/api?id=Neha-Singh-j&icon=0&color=0)](https://visitcount.itsvg.in)
  <h3 align="left">✍️</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes">
 
-
-# 📫 How to reach me
-- 💌 [Email](mailto:neha.singh.888.j@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/neha-singh-4952992a7)
-- 📝 [Portfolio Website](https://github.com/Neha-Singh-j/Neha-Singh-j)
 
 ---
 ⭐ **Star** some repositories if you find them useful! Happy Coding! 🚀
