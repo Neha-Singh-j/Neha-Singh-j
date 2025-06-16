@@ -20,7 +20,7 @@
   <img src="https://komarev.com/ghpvc/?username=Neha-Singh-j&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> <!-- image -->
 </p> <br> 
 
-
+---
 # 💫 About Me:
  💻 B-Tech CSE @ GLA University<br><br>🚀 Exploring Machine Learning, Web Development<br><br>🔥 Actively solving DSA problems on LeetCode & CodeForces
 # Contact me:
@@ -41,27 +41,51 @@
 <a href="https://portfolio-neha-singh.vercel.app/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Portfolio&logo=internet-explorer&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
 </a>
-
+---
 
 # 🛠 Language and Tools:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+---
+## 📊 Competitive Programming Stats
 
-## 📊 My Stats:
-<div>
+### 🔸 LeetCode
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=neha-singh-j&show_icons=true&locale=en&layout=compact" alt="neha-singh-j" /></p>
+[![LeetCode](https://img.shields.io/badge/LeetCode-Neha__Singh__j-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Neha_Singh_j/)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=neha-singh-j&show_icons=true&locale=en" alt="neha-singh-j" /></p>
+![LeetCode Stats](https://leetcard.jacoblin.cool/Neha_Singh_j?theme=light&font=baloo)
+
+---
+
+### 🔹 Codeforces
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-nehaSingh0-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/nehaSingh0)
+
+![Codeforces Stats](https://cf.leed.at?id=nehaSingh0)
+
+---
+
+## 📈 GitHub Stats & Languages
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Neha-Singh-j&layout=compact&theme=gruvbox&hide_border=true" alt="Neha's Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Neha-Singh-j&show_icons=true&theme=gruvbox&hide_border=true&rank_icon=github&include_all_commits=true" alt="Neha's GitHub Stats" />
+</p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neha-singh-j&" alt="neha-singh-j" /></p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neha-Singh-j&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
 
 
-</div>
-<br>
+---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Neha-Singh-j&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+---
 
 ## 📈 Contribution Graph
 
