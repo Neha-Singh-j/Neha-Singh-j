@@ -11,7 +11,8 @@
 ###
 
 <div>
- <h1>Hi 👋, I'm Neha Singh</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Neha Singh</h1>
+
   <h3>Full-Stack Developer | B.Tech @ GLA University | A passionate developer and Techie!!!</h3>
 
 </div>
@@ -64,22 +65,27 @@
 
 ---
 
-## 📈 GitHub Stats & Languages
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Neha-Singh-j&layout=compact&theme=gruvbox&hide_border=true" alt="Neha's Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Neha-Singh-j&show_icons=true&theme=gruvbox&hide_border=true&rank_icon=github&include_all_commits=true" alt="Neha's GitHub Stats" />
-</p>
-
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neha-Singh-j&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
-
+<br />
+<table width="100%" align="center">
+<tr>
+<!-- <td>
+  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neha-Singh-j&theme=2077" alt="Profile Summary">
+</td> -->
+</tr>
+</table>
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=Neha-Singh-j&show_icons=true&locale=en&theme=midnight-purple" alt="GitHub Stats"/>
+</td>
+<td>
+  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=Neha-Singh-j&theme=midnight-purple" alt="Streak Stats"/>
+</td>
+</tr>
+</table>
+</br>
 
 ---
 
@@ -91,9 +97,12 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neha-Singh-j&theme=react-dark&hide_border=true" alt="Contribution Graph" /> <!-- graph -->
 ---
-[![](https://visitcount.itsvg.in/api?id=Neha-Singh-j&icon=0&color=0)](https://visitcount.itsvg.in)
- <h3 align="left">✍️</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes">
+
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=27&duration=3200&color=3E92CC&center=true&vCenter=true&width=650&lines=Turn+challenges....;into+opportunities.....;+with+code..." alt="Typing SVG"/>
+    </h1>
+</div>
 
 
 ---
