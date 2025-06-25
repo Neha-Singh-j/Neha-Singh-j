@@ -32,9 +32,7 @@
 # 💫 About Me:
  💻 B-Tech CSE @ GLA University<br><br>🚀 Exploring Machine Learning, Web Development<br><br>🔥 Actively solving DSA problems on LeetCode & CodeForces
 # Contact me:
-</div>
 
-<div align="center">
   <a href="https://www.linkedin.com/in/neha-singh-4952992a7" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -62,6 +60,7 @@
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
+
 ## 📊 Competitive Programming Stats
 
 ### 🔸 LeetCode
